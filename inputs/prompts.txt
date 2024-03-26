@@ -4,9 +4,15 @@ faça um resumo da página web https://support.microsoft.com/pt-br/topic/saiba-m
 
 faça um resumo das principais funcionalidades do Microsoft OpenAI. Divida as funcionalidades em tópicos. Utilize uma lingugem simples.
 
+Faça um resumo sobre o uso de IA Responsável pelo Microsoft OpenAI, utilizando uma linguagem simples.
 
+criar uma imagem da Monalisa, com roupa de skatista, tirando uma selfie com o celular.
 
-criar uma imagem da Monalisa, com roupa de skatista, tirando uma selfie com o celular
+crie uma imagem de Anubis enfrentando Zeus em um jogo de tênis.
 
-crie uma gincana matemática que ilustre como a matemática é parte integrante da vida cotidiana
+crie uma imagem de um elefante comendo um hamburguer.
+
+cria uma imagem de um robo comendo espaguete.
+
+crie uma gincana matemática que ilustre como a matemática é parte integrante da vida cotidiana.
 
