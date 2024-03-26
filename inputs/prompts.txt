@@ -1,2 +1,12 @@
-Faça um resumo das principais funcionalidades do Copilot. Divida as funcionalidades em tópicos. Utilize uma lingugem simples.
+faça um resumo das principais funcionalidades do Copilot. Divida as funcionalidades em tópicos. Utilize uma lingugem simples.
+
+faça um resumo da página web https://support.microsoft.com/pt-br/topic/saiba-mais-sobre-os-prompts-do-copilot-f6c3b467-f07c-4db1-ae54-ffac96184dd5, utilizando uma linguagem simples
+
+faça um resumo das principais funcionalidades do Microsoft OpenAI. Divida as funcionalidades em tópicos. Utilize uma lingugem simples.
+
+
+
+criar uma imagem da Monalisa, com roupa de skatista, tirando uma selfie com o celular
+
+crie uma gincana matemática que ilustre como a matemática é parte integrante da vida cotidiana
 
