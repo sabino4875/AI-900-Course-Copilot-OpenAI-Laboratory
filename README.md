@@ -69,6 +69,18 @@ Experimente diferentes prompts e aproveite todo o potencial do Copilot!
 
 Lembre-se de que o Microsoft OpenAI é uma ferramenta poderosa, mas sempre verifique os resultados para garantir que eles atendam às suas necessidades específicas!
 
+## IA Responsável
+
+É um conjunto de práticas e princípios que guiam o desenvolvimento e uso da inteligência artificial (IA) de forma ética e segura. A **Microsoft** e a **OpenAI** estão comprometidas com a IA responsável, garantindo que ela seja benéfica para as pessoas e a sociedade. 
+
+Alguns aspectos importantes incluem:
+
+* **Normas Internas:** A Microsoft estabeleceu regras corporativas para garantir que a IA seja desenvolvida de acordo com princípios éticos. Isso inclui governança interna sólida e atualizações regulares dessas normas.
+* **Colaboração:** A Microsoft, juntamente com a OpenAI, o Google e a Anthropic, está trabalhando em modelos avançados de IA, como o **Fórum Frontier Model**, com foco na segurança e confiabilidade.
+* **Compromisso com a Sociedade:** A Microsoft busca capacitar o mundo com IA, mas sempre com responsabilidade. Isso envolve considerações sobre imparcialidade, privacidade, inclusão e transparência.
+* **Pesquisa Contínua:** A equipe de IA da Microsoft está constantemente aprimorando a pesquisa em IA responsável, garantindo que os sistemas sejam projetados com responsabilidade desde o início.
+
+Em resumo, a IA responsável é essencial para criar um futuro onde a tecnologia beneficie a todos, com ética e segurança em mente.
 
 #### O material deste artigo foi gerado utilizando os conceitos aprendidos sobre a utilização do copilot, com revisão humana.
 
@@ -81,6 +93,26 @@ Lembre-se de que o Microsoft OpenAI é uma ferramenta poderosa, mas sempre verif
 
 ## Referência bibliográfica
 
-**Saiba mais sobre os prompts do Copilot em** 
-https://support.microsoft.com/pt-br/topic/saiba-mais-sobre-os-prompts-do-copilot-f6c3b467-f07c-4db1-ae54-ffac96184dd5
+[**Saiba mais sobre os prompts do Copilot**] 
+(https://support.microsoft.com/pt-br/topic/saiba-mais-sobre-os-prompts-do-copilot-f6c3b467-f07c-4db1-ae54-ffac96184dd5)
 
+[**Explore Azure OpenAI**] 
+(https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/13-azure-openai.html)
+
+[**Explore content filters in Azure OpenAI**] 
+(https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/14-azure-openai-content-filters.html)
+
+[**Explore generative AI with Microsoft Copilot**]
+(https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/12-generative-ai.html)
+
+[**Possibilitando práticas de IA responsável**]
+(https://www.microsoft.com/pt-br/ai/responsible-ai)
+
+[**Request Access to Azure OpenAI Service**]
+(https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUNTZBNzRKNlVQSFhZMU9aV09EVzYxWFdORCQlQCN0PWcu)
+
+[**Google, Microsoft e OpenAI prometem desenvolvimento responsável da IA**]
+(https://tecnoblog.net/noticias/google-microsoft-e-openai-prometem-desenvolvimento-responsavel-da-ia/)
+
+[**Conhecendo o momento da IA: avançando no futuro por meio da Inteligência Artificial responsável**]
+(https://news.microsoft.com/pt-br/conhecendo-o-momento-da-ia-avancando-no-futuro-por-meio-da-inteligencia-artificial-responsavel/)
