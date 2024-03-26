@@ -82,8 +82,6 @@ Alguns aspectos importantes incluem:
 
 Em resumo, a IA responsável é essencial para criar um futuro onde a tecnologia beneficie a todos, com ética e segurança em mente.
 
-[^1]: #### O material deste artigo foi gerado utilizando os conceitos aprendidos sobre a utilização do copilot, com revisão humana.
-
 
 ## Materiais
 
@@ -116,3 +114,7 @@ Em resumo, a IA responsável é essencial para criar um futuro onde a tecnologia
 
 [**Conhecendo o momento da IA: avançando no futuro por meio da Inteligência Artificial responsável**]
 (https://news.microsoft.com/pt-br/conhecendo-o-momento-da-ia-avancando-no-futuro-por-meio-da-inteligencia-artificial-responsavel/)
+
+## Informações adicionais
+
+**O material deste artigo foi gerado utilizando os conceitos aprendidos sobre a utilização do copilot, com revisão humana.**
